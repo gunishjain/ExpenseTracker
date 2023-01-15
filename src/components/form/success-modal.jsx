@@ -14,7 +14,7 @@ const customStyles = {
     marginRight: '-50%',
     transform: 'translate(-50%, -50%)',
     borderRadius: '6px',
-    backgroundColor: '#ADD8E6'
+    backgroundColor: '#E7E8D1'
   },
 };
   return <Modal isOpen={modalOpen} style={customStyles}>
